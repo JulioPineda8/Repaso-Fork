@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jpine\\OneDrive\\Escritorio\\Repaso-Parcial-II\\Repaso\\Repaso\\Repaso.csproj": {}
+    "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoProgra\\Repaso-Fork\\Repaso\\Repaso.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jpine\\OneDrive\\Escritorio\\Repaso-Parcial-II\\Repaso\\Repaso\\Repaso.csproj": {
+    "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoProgra\\Repaso-Fork\\Repaso\\Repaso.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jpine\\OneDrive\\Escritorio\\Repaso-Parcial-II\\Repaso\\Repaso\\Repaso.csproj",
+        "projectUniqueName": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoProgra\\Repaso-Fork\\Repaso\\Repaso.csproj",
         "projectName": "Repaso",
-        "projectPath": "C:\\Users\\jpine\\OneDrive\\Escritorio\\Repaso-Parcial-II\\Repaso\\Repaso\\Repaso.csproj",
-        "packagesPath": "C:\\Users\\jpine\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jpine\\OneDrive\\Escritorio\\Repaso-Parcial-II\\Repaso\\Repaso\\obj\\",
+        "projectPath": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoProgra\\Repaso-Fork\\Repaso\\Repaso.csproj",
+        "packagesPath": "C:\\Users\\keily\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\keily\\OneDrive\\Escritorio\\proyectoProgra\\Repaso-Fork\\Repaso\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jpine\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\keily\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
